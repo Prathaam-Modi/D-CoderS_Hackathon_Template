@@ -1,3 +1,68 @@
+
+body {
+
+  background-color:  #fcfcfc;
+}
+#art_header1{
+  font-size: 40px ;
+  color:#c3073f;
+  text-shadow: 1px 1px 1px black;
+}
+#art_header2{
+  font-size:160%;
+  color:#950740;
+  text-shadow: 0.1px 0.1px 0.1px #c3073f;
+}
+
+
+#very_special{
+    font:Arial;
+    padding-left:20px;
+    font-size: 40px;
+    padding-top:20px;
+  }
+
+#one{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#bookworm{
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.nav-link{
+  padding: 1px;
+  font-size: 200%;
+  font-style: italic;
+}
+
+#biggest_image{
+  padding-top:8px;
+}
+
+}
+#Heading_name{
+  font-style: italic;
+  font-size: 250%;
+  color: #fed8b1;
+  padding-top: 8px;
+}
+
+#original_head{
+  font-size:300%;
+  font-style: italic;
+
+}
+#original_para{
+  font-size: 200%;
+}
+
+#m-booked-weather-bl250-69937{
+  padding-top: 0px;
+  padding-bottom: 18px;
+}
+
+
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -200,14 +265,24 @@
   margin-bottom: 0;
   color:white;
 }
+#link1{
+  background-color: #000000;
+}
+body{
+  background-color: #eadede;
+}
+.footer{
+  background-color: #000000;
+}
 .navbar-default .navbar-nav>li>a {
     color: #ffffff;
 }
 .navbar-default .navbar-brand {
     color: #ffffff;
 }
-.jumbotron{
-  padding-top: 50px;
-  font-weight: bold;
-  color:black;
+#m-booked-weather-bl250-63713{
+margin-top: 30px;
+}
+.carousel-inner{
+  padding-top: 20px;
 }
