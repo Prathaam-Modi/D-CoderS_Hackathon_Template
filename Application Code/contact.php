@@ -60,7 +60,7 @@
                        <!--Grid column-->
                        <div class="col-md-6">
                            <div class="md-form mb-0">
-                             <label for="name" class="">Your name</label>
+                             <label for="name" class="msg">Your name</label>
                                <input type="text" id="name" name="name" placeholder="Enter your name here"class="form-control">
                            </div>
                        </div>
@@ -69,7 +69,7 @@
                        <!--Grid column-->
                        <div class="col-md-6">
                            <div class="md-form mb-0">
-                             <label for="email" class="">Your email</label>
+                             <label for="email" class="msg">Your email</label>
                                <input type="text" id="email" name="email" placeholder="Enter your Email Id here"class="form-control">
                            </div>
                        </div>
@@ -82,7 +82,7 @@
                    <div class="row">
                        <div class="col-md-12">
                            <div class="md-form mb-0">
-                             <label for="subject" class="">Subject</label>
+                             <label for="subject" class="msg">Subject</label>
                                <input type="text" id="subject" name="subject" class="form-control">
                            </div>
                        </div>
@@ -96,7 +96,7 @@
                        <div class="col-md-12">
 
                            <div class="md-form">
-                             <label for="message">Your message</label>
+                             <label for="message" class="msg">Your message</label>
                                <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
                            </div>
 
@@ -115,17 +115,6 @@
        </div>
 
    </section>
-   <!--Section: Contact v.2-->
-  <!-- <div class="form-group">
-    <label for="exampleInputFile">File input</label>
-    <input type="file" id="exampleInputFile">
-    <p class="help-block">Example block-level help text here.</p>
-  </div>
-  <div class="checkbox">
-    <label>
-      <input type="checkbox"> Check me out
-    </label> -->
-
   </form>
   <!-- Site footer -->
   <footer class="site-footer">

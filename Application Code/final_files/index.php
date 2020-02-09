@@ -40,9 +40,14 @@ error_reporting(0);
       }
     </style>
 
-</head>
+    
 
 <body>
+  <div class="loader-wrapper">
+      <span class="loader"><span class="loader-inner"></span></span>
+  </div>
+
+</div>
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container-fluid">
       <!-- Brand and toggle get grouped for better mobile display -->
@@ -53,21 +58,21 @@ error_reporting(0);
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="http://localhost/Hackathon/Homepage/index.php">SMITSONIAN</a>
+        <a class="navbar-brand" href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\final_files\index.php">SMITSONIAN</a>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
           <!-- <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li> -->
-          <li><a href="http://localhost/Hackathon/about.html">About</a></li>
-          <li><a href="http://localhost/Hackathon/contact.html">Contact</a></li>
-          <li><a href="http://localhost/Hackathon/gallery.html">Gallery</a></li>
+          <li><a href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\about.html">About</a></li>
+          <li><a href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\contact.html">Contact</a></li>
+          <li><a href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\gallery.html">Gallery</a></li>
           <li><a href="php\index.php">Login</a></li>
           <li><a href="pirvacy\privacy.html">Privacy Policy</a></li>
         </ul>
       </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->F
+    </div><!-- /.container-fluid -->
   </nav>
 <div class="box">
   <img src="images.png" alt="">
@@ -387,7 +392,7 @@ Read one and explore more about our glorious institution.
       </div>
 
         <div class="col-xs-6 col-md-3">
-          <h6>Categories</h6>
+          <!-- <h6>Categories</h6>
           <ul class="footer-links">
             <li><a href="#">C</a></li>
             <li><a href="#">UI Design</a></li>
@@ -395,17 +400,17 @@ Read one and explore more about our glorious institution.
             <li><a href="#">Java</a></li>
             <li><a href="#">Android</a></li>
             <li><a href="#">Templates</a></li>
-          </ul>
+          </ul> -->
         </div>
 
         <div class="col-xs-6 col-md-3">
           <h6>Quick Links</h6>
           <ul class="footer-links">
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Contact Us</a></li>
-            <li><a href="#">Contribute</a></li>
+            <li><a href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\about.html">About Us</a></li>
+            <li><a href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\contact.html">Contact Us</a></li>
+
             <li><a href="#">Privacy Policy</a></li>
-            <li><a href="#">Sitemap</a></li>
+
           </ul>
         </div>
       </div>

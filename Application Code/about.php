@@ -3,7 +3,7 @@
   <head >
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
-    <link rel="stylesheet" href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\about.css">
+    <link rel="stylesheet" href="about.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
     <title>About SMIT</title>
@@ -110,7 +110,7 @@ Read one and explore more about our glorious institution.
             <li><a href="http://localhost\D-CoderS_Hackathon_Template\Application%20Code\contact.html">Contact Us</a></li>
 
             <li><a href="#">Privacy Policy</a></li>
-            
+
           </ul>
         </div>
       </div>

@@ -1,17 +1,35 @@
+.loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.navbar{
+  background-color: black;
+  color:white;
+}
 body{
-  background: url(https://s3.envato.com/files/270318452/2T4A8387.jpg);
+  background: url(https://images.squarespace-cdn.com/content/v1/58a5b151ff7c50c87f2bec90/1488225966465-0HJNTN5U0TFPAPWE5GII/ke17ZwdGBToddI8pDm48kFpMX3xNTiJ3K2ARERDRu9d7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jAoOkRmPE63FUjiJOEKAz6CWiIXCa_EZdV2f9jqcEhicpkgyNdjLnHuUHgFJG3ySQ/contact_us_background2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  padding-top: 10px;
 
 }
 .jumbotron{
   font-family: 'Anton', sans-serif;
   font-size: 60px;
   font-weight: bold;
-  color:black;
-  text-shadow: 4px 4px white;
-  background-color: #B8B08D;
+  color:white;
+  text-shadow: 4px 4px black;
+  background-color: #1b1c1c;
   padding-bottom: 20px;
   padding-top: 30px;
 }
@@ -26,7 +44,7 @@ body{
   margin:0 500px 0 500px;
 }
 #p1{
-
+color:white;
 }
 #feedback{
   text-align: left;
@@ -39,7 +57,7 @@ body{
   margin-bottom: 20px;
 }
 #con1{
-  background-color: rgba(255, 204, 153,0.4);
+  background-color: rgba(27, 28, 28,.4);
 }
 .fa {
   padding: 20px;
@@ -242,6 +260,7 @@ body{
   font-style: italic;
   font-family: sans-serif;
   font-weight: bold;
+  color:white;
 }
 .btn.btn-primary{
   margin-bottom: 20px;
@@ -267,4 +286,30 @@ body{
 .jumbotron{
   margin-top: 50px;
 
+}
+h2{
+  color:white;
+}
+.msg{
+  color:white;
+}
+#name{
+  margin-left: 150px;
+  background-color: rgba(7,7,8,.8);
+}
+#email{
+  margin-left: 150px;
+  background-color: rgba(7,7,8,.8);
+}
+#subject{
+  margin-left: 150px;
+  background-color: rgba(7,7,8,.8);
+}
+#message{
+  margin-left: 150px;
+  background-color: rgba(7,7,8,.8);
+}
+label{
+  color: white;
+  margin-left: 150px;
 }

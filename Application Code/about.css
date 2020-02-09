@@ -5,9 +5,6 @@
   background-color: #F4EBDD;
   box-shadow: 0px 1px 0px 1px brown;
 }
-body{
-  background-color: red;
-}
 #p1{
   font-size: 22px;
   font-style: italic;
@@ -92,7 +89,7 @@ h6{
   background-color: #000000;
 }
 body{
-  background-color: #ffffff;
+  background-color: black;
 }
 .footer{
   background-color: #000000;
@@ -106,6 +103,7 @@ body{
 #director{
   padding-top: 20px;
   padding-bottom: 20px;
+  height:50px;
 }
 #pdirector{
   color:black;
