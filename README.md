@@ -42,8 +42,11 @@ Technologies Used :
 Setup/Installations required to run the solution :
 1 PHP7
 2 Local Host Client
+
 Instructions to run the submitted code :
-1
+1 Open The application Code folder
+2 Open The Hackathon-2020-Master Folder
+3 Execute index.php in "Hackathon-2020-Master" folder root to see our project.
 ### Team Members
 ----------------------------------
 
